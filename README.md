@@ -6,7 +6,7 @@ Analyze and forecast new COVID-19 cases in various countries using time series d
 
 **Data:**
 
-"owid_f1.csv" dataset containing daily COVID-19 cases, deaths, and vaccination rates for various locations.
+Collected data from the "owid_f1.csv"  containing daily COVID-19 cases, deaths, and vaccination rates for various locations.
 
 **Methodology:**
 
